@@ -18,7 +18,7 @@ Follow these steps to run the application locally using Docker:-
 
 ### TodoList
 
-![image](https://github.com/venk404/Dockerized-TodoList/assets/61042520/3d135d2e-89de-451e-a04e-ba476381df80)
+![image](https://github.com/venk404/Dockerized-TodoList/assets/61042520/bfaa60a2-506a-4d7b-be93-2e712659ae15)
 
 
 # Setup 
@@ -36,5 +36,5 @@ Follow these steps to run the application locally using Docker:-
   docker run -d -p 3000:3000 task-list
 
 #Start the application
-npm start
+  npm start
 
