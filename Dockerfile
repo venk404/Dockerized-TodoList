@@ -2,7 +2,7 @@ FROM node:20-alpine
 
 WORKDIR /usr/src/app
 
-COPY package* .
+COPY package* ./
 
 
 # Copy the rest of the application code to the working directory
